@@ -1,0 +1,67 @@
+{
+  "series":[
+    {
+      "id": 1,
+      "title": "Jibaku Shounen Hanako-kun",
+      "author": "AidaIro",
+      "image": "https://upload.wikimedia.org/wikipedia/en/4/44/Toilet-Bound_Hanako-kun_volume_1_cover.jpg",
+      "tags": ["Romance", "Comedy", "Supernatural"]
+    },
+    {
+      "id": 2,
+      "title": "Jujutsu Kaisen",
+      "author": "Gege Akutami",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Jujutsu_kaisen.jpg/220px-Jujutsu_kaisen.jpg",
+      "tags": ["Action", "Shonen", "School"]
+    },
+    {
+      "id": 3,
+      "title": "Infinite Stratos",
+      "author": "Izuru Yumizuru",
+      "image": "https://static.wikia.nocookie.net/infinite-stratos/images/2/2d/Volume_1_new_cover.jpeg",
+      "tags": ["Harem", "Mecha Anime", "Romantic Comedy"]
+    },
+    {
+      "id": 4,
+      "title": "Jibaku Shounen Hanako-kun",
+      "author": "AidaIro",
+      "image": "https://upload.wikimedia.org/wikipedia/en/4/44/Toilet-Bound_Hanako-kun_volume_1_cover.jpg",
+      "tags": ["Romance", "Comedy", "Supernatural"]
+    },
+    {
+      "id": 5,
+      "title": "Placeholder",
+      "author": "Izuru Yumizuru",
+      "image": "https://static.wikia.nocookie.net/infinite-stratos/images/2/2d/Volume_1_new_cover.jpeg",
+      "tags": ["Romance", "Comedy", "Supernatural"]
+    },
+    {
+      "id": 6,
+      "title": "Placeholder2",
+      "author": "Izuru Yumizuru",
+      "image": "https://upload.wikimedia.org/wikipedia/en/4/44/Toilet-Bound_Hanako-kun_volume_1_cover.jpg",
+      "tags": ["Romance", "Comedy", "Supernatural"]
+    },
+    {
+      "id": 7,
+      "title": "Placeholder3",
+      "author": "Izuru Yumizuru",
+      "image": "https://static.wikia.nocookie.net/infinite-stratos/images/2/2d/Volume_1_new_cover.jpeg",
+      "tags": ["Romance", "Comedy", "Supernatural"]
+    },
+    {
+      "id": 8,
+      "title": "Placeholder4",
+      "author": "Izuru Yumizuru",
+      "image": "https://upload.wikimedia.org/wikipedia/en/4/44/Toilet-Bound_Hanako-kun_volume_1_cover.jpg",
+      "tags": ["Romance", "Comedy", "Supernatural"]
+    },
+    {
+      "id": 9,
+      "title": "Placeholder5",
+      "author": "Izuru Yumizuru",
+      "image": "https://static.wikia.nocookie.net/infinite-stratos/images/2/2d/Volume_1_new_cover.jpeg",
+      "tags": ["Romance", "Comedy", "Supernatural"]
+    }
+  ]
+}
